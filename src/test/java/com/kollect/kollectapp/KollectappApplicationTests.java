@@ -1,0 +1,13 @@
+package com.kollect.kollectapp;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class KollectappApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
